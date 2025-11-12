@@ -1,4 +1,4 @@
-import { FaStar , FaGithub , FaFacebook , FaInstagram } from 'react-icons/fa';
+import { FaStar , FaGithub , FaFacebook } from 'react-icons/fa';
 import * as Tooltip from "@radix-ui/react-tooltip";
 
 function Skill({ name, level }: { name: string; level: number }) {
